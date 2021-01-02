@@ -1,1 +1,2 @@
-_CONNECTIONSTRING_
+# Sample web.config for purpose of assignment for Snow softwares.
+DB connections details "_CONNECTIONSTRING_"
