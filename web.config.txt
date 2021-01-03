@@ -1,2 +1,6 @@
-# Sample web.config for purpose of assignment for Snow softwares.
-DB connections details "_CONNECTIONSTRING_"
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.web>
+      <add db="_CONNECTIONSTRING_"/>
+    </system.web>
+</configuration>
